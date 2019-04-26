@@ -1,0 +1,16 @@
+{
+  "name": "heart-rate",
+  "version": "1.0.0",
+  "description": "Reading Heart rate from Respberry pi 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipin",
+  "license": "ISC",
+  "dependencies": {
+    "raspi": "^6.0.1",
+    "raspi-i2c": "^6.2.2",
+    "raspi-kit-ads1x15": "^1.0.0"
+  }
+}
